@@ -1,0 +1,22 @@
+
+#main{
+   background: blue;
+   width: 20%;
+   height: 800px;
+   float: left;
+   
+}
+
+#img{
+   background: green;
+   width: 60%;
+   height: 800px;
+   float: left;
+}
+
+#tag{
+   background: red;
+   width: 20%;
+   height: 800px;
+   float: right;
+}
